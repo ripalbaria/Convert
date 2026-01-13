@@ -11,39 +11,39 @@ def generate_m3u():
         print(f"Fetching JSON from {JSON_URL}...")
         response = requests.get(JSON_URL)
         response.raise_for_status()
-        full_data = response.json()
+        data = response.json()
 
-        # The JSON uses 'channels' as the main list
-        channels = full_data.get("channels", [])
-
-        if not channels:
-            print("No channels found.")
+        # Check if the data is a dictionary with a 'channels' key
+        if isinstance(data, dict) and "channels" in data:
+            channels = data["channels"]
+        elif isinstance(data, list):
+            channels = data
+        else:
+            print("Unexpected JSON structure.")
             return
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n\n")
 
             for item in channels:
-                # UPDATED KEYS based on your specific JSON source
-                name = item.get("tvg_name", "Unknown")
-                tvg_id = item.get("tvg_id", "")
-                group = item.get("group_title", "General")
-                logo = item.get("tvg_logo", "")
+                # Key names based on your specific jiotv.json file
+                name = item.get("name", "Unknown")
+                tvg_id = item.get("id", "")
+                group = item.get("category", "General")
+                logo = item.get("logo", "")
                 
-                # License keys
+                # License keys (ClearKey)
                 key_id = item.get("key_id", "")
                 key = item.get("key", "")
                 
-                # URL and Cookies
-                # Note: If 'url' is missing, it checks for 'stream_url'
-                stream_url = item.get("url") or item.get("stream_url", "")
+                # Stream URL and Cookie
+                stream_url = item.get("url", "")
                 cookie = item.get("cookie", "")
 
-                # Skip entries with no URL
                 if not stream_url:
                     continue
 
-                # Writing the M3U entry
+                # M3U Entry Formatting
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group}" tvg-logo="{logo}",{name}\n')
                 
                 if key_id and key:
@@ -57,7 +57,7 @@ def generate_m3u():
                 
                 f.write(f'{stream_url}\n\n')
 
-        print(f"Success! Created {OUTPUT_FILE}")
+        print(f"Successfully generated {OUTPUT_FILE} with {len(channels)} channels.")
 
     except Exception as e:
         print(f"An error occurred: {e}")
