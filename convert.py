@@ -13,32 +13,37 @@ def generate_m3u():
         response.raise_for_status()
         full_data = response.json()
 
-        # The JSON has a 'channels' key which contains the list
+        # The JSON uses 'channels' as the main list
         channels = full_data.get("channels", [])
 
         if not channels:
-            print("No channels found in the JSON data.")
+            print("No channels found.")
             return
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n\n")
 
             for item in channels:
-                # Basic Metadata
-                name = item.get("name", "Unknown")
-                tvg_id = item.get("id", "")
-                group = item.get("category", "General")
-                logo = item.get("logo", "")
+                # UPDATED KEYS based on your specific JSON source
+                name = item.get("tvg_name", "Unknown")
+                tvg_id = item.get("tvg_id", "")
+                group = item.get("group_title", "General")
+                logo = item.get("tvg_logo", "")
                 
-                # License keys (ClearKey)
+                # License keys
                 key_id = item.get("key_id", "")
                 key = item.get("key", "")
                 
                 # URL and Cookies
-                stream_url = item.get("url", "")
+                # Note: If 'url' is missing, it checks for 'stream_url'
+                stream_url = item.get("url") or item.get("stream_url", "")
                 cookie = item.get("cookie", "")
 
-                # Formatting the Entry
+                # Skip entries with no URL
+                if not stream_url:
+                    continue
+
+                # Writing the M3U entry
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group}" tvg-logo="{logo}",{name}\n')
                 
                 if key_id and key:
@@ -48,12 +53,11 @@ def generate_m3u():
                 f.write(f'#EXTVLCOPT:http-user-agent={USER_AGENT}\n')
                 
                 if cookie:
-                    # Formats exactly like your sample: {"cookie":"value"}
                     f.write(f'#EXTHTTP:{{"cookie":"{cookie}"}}\n')
                 
                 f.write(f'{stream_url}\n\n')
 
-        print(f"Success! {len(channels)} channels saved to {OUTPUT_FILE}")
+        print(f"Success! Created {OUTPUT_FILE}")
 
     except Exception as e:
         print(f"An error occurred: {e}")
