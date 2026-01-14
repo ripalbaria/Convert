@@ -1,291 +1,291 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Entertainment",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsHD/JCHLS/JC_ColorsHD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg" group-title="Entertainment",Colors Rishtey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsRishtey/JCHLS/JC_ColorsRishtey.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg" group-title="Entertainment",Colors Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/JC_ColorsBanglaHD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg" group-title="Entertainment",Colors Kannada HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/JC_ColorsKannadaHD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg" group-title="Entertainment",Colors Marathi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/JC_ColorsMarathiHD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg" group-title="Entertainment",Colors Gujarati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsGujarati/JCHLS/JC_ColorsGujarati.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg" group-title="Entertainment",Colors Tamil HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsTamilHD/JCHLS/JC_ColorsTamilHD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" group-title="Entertainment",Colors Infinity HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/JC_ColorsInfinityHD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg" group-title="Entertainment",Colors Super
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/JC_ColorsSuperKannada.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" group-title="Movies",Colors Cineplex HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="Movies",Colors Cineplex Superhits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/JC_ColorsCineplexSuperhit.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" group-title="Movies",Colors Cineplex Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/JC_ColorsCineplexBollywood.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg" group-title="Movies",Colors Kannada Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/JC_ColorsKannadaCinema.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" group-title="Music",MTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_MTVHD/JCHLS/JC_MTVHD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg" group-title="Kids",Nick
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_NickSD/JCHLS/JC_NickSD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="Kids",Sonic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_SonicNick/JCHLS/JC_SonicNick.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg" group-title="Kids",Nick HD+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_NickHD/JCHLS/JC_NickHD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg" group-title="Kids",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_NickJr/JCHLS/JC_NickJr.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="Sports",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png" group-title="Sports",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png" group-title="Sports",Star Sports 2 Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="Sports",Star Sports 2 Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg" group-title="Business",CNBC Awaaz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/CNBC_Awaaz_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg" group-title="Business",CNBC Bazaar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNBC_Bazaar_voot_MOB/Fallback/CNBC_Bazaar_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg" group-title="Business",CNBC TV18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/CNBC_TV18_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News18 India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_India_voot_MOB/Fallback/News18_India_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News",CNN News18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNN_News18_voot_MOB/Fallback/CNN_News18_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="News",News18 Tamil Nadu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Tamil_Nadu_voot_MOB/Fallback/News18_Tamil_Nadu_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News",News18 Lokmat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/News18_Lokmat_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="News",News18 Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/News18_Bangla_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News",News18 Kannada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Kannada_voot_MOB/Fallback/News18_Kannada_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="News",News18 Gujarati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Gujarati_voot_MOB/Fallback/News18_Gujarati_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="News",News18 Punjab Haryana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/News18_Punjab_Haryana_HP_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="News",News18 Odia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Odia_voot_MOB/Fallback/News18_Odia_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="News",News18 Assam North East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Assam_North_East_voot_MOB/Fallback/News18_Assam_North_East_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="News",News18 Kerala
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Kerala_voot_MOB/Fallback/News18_Kerala_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="News",News18 Rajasthan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Rajasthan_voot_MOB/Fallback/News18_Rajasthan_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="News",News18 Bihar Jharkhand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Bihar_Jharkhand_voot_MOB/Fallback/News18_Bihar_Jharkhand_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="News",News18 MP Chhattisgarh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_MP_Chhattisgarh_voot_MOB/Fallback/News18_MP_Chhattisgarh_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="News",News18 UP Uttarakhand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News18_UP_Uttarakhand_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="News",News18 JKLH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7429/567429-h" group-title="Others",Star Suvarna
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=786fe347f558460398b9e42e1db50000&key=d630fb6469c3457e9d7c4bb863e1fef1|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp1/gec-india-1540057075/57ae0b6fa2b64281984574d406f9a696/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7424/567424-h" group-title="Others",Asianet Plus
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=5f1a41f1f8c04e209dfcdfff2fdc0000&key=e0a5f3aa6afe414b902d6b729dd9b11b|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp1/gec-india-1540057042/65edc0359d4b49f7a42d06d4dfe8457b/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/5868/595868-h" group-title="Others",Star Pravah
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=9d300f38d30d4829b2e525a037560000&key=706572c4aac0420f90a778e22116b320|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp2/gec-india-1540057063/03a27d0f3ce347f0a3b4af1f6e62d4cc/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h" group-title="Others",Star Maa Movies
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=18b7ece05d094614a3839978b9330000&key=267ba7674fbd4076bbf797eaa1dd16d0|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp1/gec-india-1540057036/9b002b1b2a3748b7a80a8512aef0bb8d/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7420/567420-h" group-title="Others",Asianet
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=1dd2d0a48be14cc3a9666d861dd60000&key=24e889ab81444af0bceb8f8b9a530b18|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp2/gec-india-1540057084/6569043a1d874fb49fc2cf2f273fe097/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7419/567419-h" group-title="Others",Star Jalsha
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=94b8e23444db4af3b81dc2840c930000&key=d7c43050ca6d4e1ab3a296c91a4bb38e|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp1/gec-india-1540057072/61b6b96b069d42f9821b6ed85b51388e/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7418/567418-h" group-title="Others",Star Maa
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=b13dd22b45644e798457508fcdf70000&key=2c965c36ef5242f68a878952f993a591|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp2/gec-india-1540057087/136d113eec07474e8836d7dc3dd0533b/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h" group-title="Others",StarPlus
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=17a6e6ef02f74d9bbce4640371d40000&key=7a89315d2ec84875901dce2d3044556c|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp1/gec-india-1540057045/a73567ab8abd4680bc8206dd0c625cb0/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7409/567409-h" group-title="Others",Star Vijay
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=652811d06b3545a3a1f20c1b03700000&key=d3db194166ee44b3b5c9c719aa9cdd63|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp1/gec-india-1540057060/15ef978ea9f449a2a8c97f7c05e618c5/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7408/567408-h" group-title="Others",Maa Gold
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=ab4cba34a7084eddbd6edf6a16460000&key=fd1cb8f19b2e42838d4ace714427ec76|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp1/gec-india-1540057033/9680ef02a23e4d05a7d6afab10805ec4/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h" group-title="Others",Star Utsav
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=88f55cce9ba94df6b009f2433ef90000&key=6f33ae9e6fa24f95b82e538563b1cbaf|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp1/gec-india-1540057078/6a9d9dbd5cd84dd3ba89856288c589b3/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h" group-title="Others",Star Sports Select HD2
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450445~acl=*ssselecthd2*~id=68d39ae6e465e6ae7ce96f8e08faf7d2~data=hdntl~hmac=4ed5071234cb17d381f2c39c4a51498fbb905733dd1d1f0a24e3da865a13c77a
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450445~acl=*ssselecthd2*~id=68d39ae6e465e6ae7ce96f8e08faf7d2~data=hdntl~hmac=4ed5071234cb17d381f2c39c4a51498fbb905733dd1d1f0a24e3da865a13c77a
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv-push.hotstar.com/dash/live/2002471/ssselecthd2wv/master.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450445~acl=*ssselecthd2*~id=68d39ae6e465e6ae7ce96f8e08faf7d2~data=hdntl~hmac=4ed5071234cb17d381f2c39c4a51498fbb905733dd1d1f0a24e3da865a13c77a
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" group-title="Others",Star Sports Hindi 1
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450444~acl=*sshindi*~id=436c7e1d73430ca5e67cdd18ce017495~data=hdntl~hmac=98001f953a4d6e280e3a60f710e32c731fb4807136f2d71f1625e5877757817d
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450444~acl=*sshindi*~id=436c7e1d73430ca5e67cdd18ce017495~data=hdntl~hmac=98001f953a4d6e280e3a60f710e32c731fb4807136f2d71f1625e5877757817d
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv-push.hotstar.com/dash/live/2002466/sshindiwv/master.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450444~acl=*sshindi*~id=436c7e1d73430ca5e67cdd18ce017495~data=hdntl~hmac=98001f953a4d6e280e3a60f710e32c731fb4807136f2d71f1625e5877757817d
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h" group-title="Others",Star Bharat
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=4271050207424ba8b3e65c602d7e0000&key=8fdd910f634b40fdb5bfde551e08fd6c|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a42da/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="Others",Star Sports 2
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450444~acl=*sshd2livetv*~id=db01ee624371f3d4a79db40825e3ec21~data=hdntl~hmac=ab3bf2fd706247cc096453384b532f0e7ed8f67a53c8b5daaeeecde14a410b5b
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450444~acl=*sshd2livetv*~id=db01ee624371f3d4a79db40825e3ec21~data=hdntl~hmac=ab3bf2fd706247cc096453384b532f0e7ed8f67a53c8b5daaeeecde14a410b5b
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv-push.hotstar.com/dash/live/2002465/sshd2livetvwv/master.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450444~acl=*sshd2livetv*~id=db01ee624371f3d4a79db40825e3ec21~data=hdntl~hmac=ab3bf2fd706247cc096453384b532f0e7ed8f67a53c8b5daaeeecde14a410b5b
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h" group-title="Others",Star Sports Select HD1
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450444~acl=*ssselecthd1*~id=d25a142c551918d4a65d41134ca0d1c9~data=hdntl~hmac=1030767153f40400d7f4851ea33c0ab9c9d59b7ea43ec279420353137fb2b38f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450444~acl=*ssselecthd1*~id=d25a142c551918d4a65d41134ca0d1c9~data=hdntl~hmac=1030767153f40400d7f4851ea33c0ab9c9d59b7ea43ec279420353137fb2b38f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv-push.hotstar.com/dash/live/2002470/ssselecthd1wv/master.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450444~acl=*ssselecthd1*~id=d25a142c551918d4a65d41134ca0d1c9~data=hdntl~hmac=1030767153f40400d7f4851ea33c0ab9c9d59b7ea43ec279420353137fb2b38f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="Others",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450444~acl=*sshd1livetv*~id=88f6ef74166727ba04e380f67afc9e1a~data=hdntl~hmac=eb0a3b1e85547bc4465da351960449bab716e39eb86c29197a57b92e62e8c9ba
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450444~acl=*sshd1livetv*~id=88f6ef74166727ba04e380f67afc9e1a~data=hdntl~hmac=eb0a3b1e85547bc4465da351960449bab716e39eb86c29197a57b92e62e8c9ba
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv-push.hotstar.com/dash/live/2002464/sshd1livetvwv/master.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450444~acl=*sshd1livetv*~id=88f6ef74166727ba04e380f67afc9e1a~data=hdntl~hmac=eb0a3b1e85547bc4465da351960449bab716e39eb86c29197a57b92e62e8c9ba
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7404/567404-h" group-title="Others",Jalsha Movies
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=a515368ea6bc4d76a1aebc22f4660000&key=e46451b6cdae433ab6e719f39dcc449e|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp2/gec-india-1540057027/39127b380adb405e8de434e10e20c3a6/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" group-title="Others",Star Gold
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=c3c8fd55071348e9992be759ceab0000&key=b894ad9ee2ad483fb2a5b71db0434bfc|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h" group-title="Others",Asianet Movies
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=53e552bf422a4feeb017e38ba43e0000&key=9cf91549836b4ce98e9d8137591dd38e|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7399/567399-h" group-title="Others",Star Suvarna Plus
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=ffcedf61e9544d1da7db98277a290000&key=cea7c92c93f04c6daaf31e2fda5e6809|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd|User-Agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1768450443~acl=%2f*~id=1d09e7ca36223853d000de642be0838d~data=hdntl~hmac=197f05f2d3430ccc7762fd330efe091077e4287717d3971c7b6769a0858d504f
