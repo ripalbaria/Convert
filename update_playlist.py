@@ -12,40 +12,51 @@ def generate_m3u():
         m3u_content = "#EXTM3U\n"
         
         for item in data:
+            # Extracting basic info from JSON
             name = item.get("name", "Unknown")
             logo = item.get("logo", "")
             group = item.get("group", "Entertainment")
+            tvg_id = item.get("id", "")
             
-            # DASH (MPD) aur HLS (M3U8) dono ko check karein
-            stream_url = item.get("m3u8_url") or item.get("mpd_url")
+            # Hotstar streams can be mpd or m3u8
+            stream_url = item.get("mpd_url") or item.get("m3u8_url")
             if not stream_url:
                 continue
 
             headers = item.get("headers", {})
-            ua = item.get("user_agent", "")
+            ua = item.get("user_agent", "plaYtv/7.1.3 (Linux;Android 13)")
             cookie = headers.get("Cookie", "")
             license_url = item.get("license_url", "")
             
-            # Headers formatting (Pipe format for OTT Navigator/Televizo)
-            header_suffix = f'|User-Agent={ua}&Cookie={cookie.replace(";", "%3B")}&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com'
-
-            m3u_content += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n'
+            # --- Arrangement as per your screenshot ---
             
+            # 1. EXTINF Line
+            m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group}" tvg-logo="{logo}",{name}\n'
+            
+            # 2. KODIPROP Tags (License Type)
+            # Agar license_url hai toh Widevine, nahi toh default Clearkey (as per example)
+            lic_type = "widevine" if license_url else "clearkey"
+            m3u_content += f'#KODIPROP:inputstream.adaptive.license_type={lic_type}\n'
+            m3u_content += f'#KODIPROP:inputstream.adaptive.license_type={lic_type}\n' # Repeated as in example
+            
+            # 3. KODIPROP License Key
             if license_url:
-                # Widevine DRM Setup
-                m3u_content += f'#KODIPROP:inputstream.adaptive.license_type=widevine\n'
-                m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={license_url}{header_suffix}\n'
+                m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={license_url}\n'
             
-            # Standard VLC Opts (Backup)
+            # 4. EXTVLCOPT User-Agent
             m3u_content += f'#EXTVLCOPT:http-user-agent={ua}\n'
-            m3u_content += f'#EXTVLCOPT:http-cookie={cookie}\n'
             
-            # Final URL with header injection
-            m3u_content += f'{stream_url}{header_suffix}\n'
+            # 5. EXTHTTP Cookie JSON
+            if cookie:
+                m3u_content += f'#EXTHTTP:{{"cookie":"{cookie}"}}\n'
+            
+            # 6. Stream URL with Double Pipe arrangement
+            # URL || cookie=COOKIE_VALUE
+            m3u_content += f'{stream_url}||cookie={cookie}\n\n'
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(m3u_content)
-        print("Success! Playlist updated with all channels.")
+        print("Success! Data arranged in exact M3U format.")
 
     except Exception as e:
         print(f"Error: {e}")
