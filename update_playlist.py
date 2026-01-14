@@ -16,8 +16,8 @@ def generate_m3u():
             logo = item.get("logo", "")
             group = item.get("group", "Entertainment")
             
-            # DASH stream check for Star Sports
-            stream_url = item.get("mpd_url") or item.get("m3u8_url")
+            # DASH (MPD) aur HLS (M3U8) dono ko check karein
+            stream_url = item.get("m3u8_url") or item.get("mpd_url")
             if not stream_url:
                 continue
 
@@ -26,23 +26,26 @@ def generate_m3u():
             cookie = headers.get("Cookie", "")
             license_url = item.get("license_url", "")
             
-            # Header Format: License server requires Referer and Origin
-            header_data = f'|User-Agent={ua}&Cookie={cookie.replace(";", "%3B")}&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com'
+            # Headers formatting (Pipe format for OTT Navigator/Televizo)
+            header_suffix = f'|User-Agent={ua}&Cookie={cookie.replace(";", "%3B")}&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com'
 
             m3u_content += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n'
             
             if license_url:
                 # Widevine DRM Setup
                 m3u_content += f'#KODIPROP:inputstream.adaptive.license_type=widevine\n'
-                # Essential: Appending headers to license URL for authentication
-                m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={license_url}{header_data}\n'
+                m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={license_url}{header_suffix}\n'
             
-            # Appending headers to the stream URL
-            m3u_content += f'{stream_url}{header_data}\n'
+            # Standard VLC Opts (Backup)
+            m3u_content += f'#EXTVLCOPT:http-user-agent={ua}\n'
+            m3u_content += f'#EXTVLCOPT:http-cookie={cookie}\n'
+            
+            # Final URL with header injection
+            m3u_content += f'{stream_url}{header_suffix}\n'
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(m3u_content)
-        print("Playlist successfully updated with DRM-sync logic.")
+        print("Success! Playlist updated with all channels.")
 
     except Exception as e:
         print(f"Error: {e}")
