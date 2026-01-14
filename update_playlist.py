@@ -1,51 +1,62 @@
 import requests
 import json
 
-# Your CloudPlay URL
 URL = "https://cloudplay-app.cloudplay-help.workers.dev/hotstar?password=all"
 OUTPUT_FILE = "playlist.m3u"
 
 def generate_m3u():
     try:
-        # Some workers require a mobile User-Agent to show all sports channels
-        headers_request = {
-            'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36'
-        }
-        
-        response = requests.get(URL, headers=headers_request)
+        response = requests.get(URL)
         data = response.json()
         
         m3u_content = "#EXTM3U\n"
         count = 0
         
         for item in data:
-            # Get data with fallbacks
-            name = item.get("name", "Unknown Channel")
-            group = item.get("group", "General")
+            name = item.get("name", "Unknown")
+            logo = item.get("logo", "")
+            group = item.get("group", "Entertainment")
             
-            # Extract the stream and headers
-            m3u8 = item.get("m3u8_url", "")
-            if not m3u8: continue # Skip if no URL
+            # Analysis: Check for both HLS and DASH URLs
+            # Star Sports uses mpd_url, Colors uses m3u8_url
+            stream_url = item.get("m3u8_url") or item.get("mpd_url")
             
-            ua = item.get("user_agent", "Mozilla/5.0")
+            if not stream_url:
+                continue
+
+            # Headers extraction
+            ua = item.get("user_agent", "")
             headers = item.get("headers", {})
             cookie = headers.get("Cookie", "")
+            origin = headers.get("Origin", "")
+            referer = headers.get("Referer", "")
+
+            # M3U Entry creation
+            m3u_content += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n'
             
-            # Format the M3U entry
-            m3u_content += f'#EXTINF:-1 tvg-logo="{item.get("logo", "")}" group-title="{group}",{name}\n'
-            m3u_content += f'#EXTVLCOPT:http-user-agent={ua}\n'
-            if cookie:
-                m3u_content += f'#EXTVLCOPT:http-cookie={cookie}\n'
-            m3u_content += f'{m3u8}\n'
+            # Standard VLC/IPTV Player headers
+            if ua: m3u_content += f'#EXTVLCOPT:http-user-agent={ua}\n'
+            if referer: m3u_content += f'#EXTVLCOPT:http-referrer={referer}\n'
+            if origin: m3u_content += f'#EXTVLCOPT:http-origin={origin}\n'
+            if cookie: m3u_content += f'#EXTHTTP:{{"Cookie":"{cookie}"}}\n'
+            
+            # DRM Logic for Star Sports (DASH content)
+            license_url = item.get("license_url")
+            if license_url:
+                # Adding KODI properties for Widevine support
+                m3u_content += f'#KODIPROP:inputstream.adaptive.license_type=widevine\n'
+                m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={license_url}\n'
+            
+            m3u_content += f'{stream_url}\n'
             count += 1
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(m3u_content)
             
-        print(f"Success! Processed {count} channels.")
+        print(f"Success! Processed {count} channels (Sports included).")
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error analysis: {e}")
 
 if __name__ == "__main__":
     generate_m3u()
