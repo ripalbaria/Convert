@@ -1,5 +1,4 @@
 import requests
-import json
 
 URL = "https://cloudplay-app.cloudplay-help.workers.dev/hotstar?password=all"
 OUTPUT_FILE = "playlist.m3u"
@@ -12,51 +11,45 @@ def generate_m3u():
         m3u_content = "#EXTM3U\n"
         
         for item in data:
-            # Extracting basic info from JSON
             name = item.get("name", "Unknown")
             logo = item.get("logo", "")
-            group = item.get("group", "Entertainment")
+            group = item.get("group", "Others")
             tvg_id = item.get("id", "")
-            
-            # Hotstar streams can be mpd or m3u8
             stream_url = item.get("mpd_url") or item.get("m3u8_url")
+            
             if not stream_url:
                 continue
 
+            # Extracting headers and keys from JSON
             headers = item.get("headers", {})
-            ua = item.get("user_agent", "plaYtv/7.1.3 (Linux;Android 13)")
+            ua = item.get("user_agent", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36")
             cookie = headers.get("Cookie", "")
-            license_url = item.get("license_url", "")
+            referer = headers.get("Referer", "https://www.hotstar.com/")
+            origin = headers.get("Origin", "https://www.hotstar.com")
             
-            # --- Arrangement as per your screenshot ---
-            
-            # 1. EXTINF Line
+            # Clearkey logic: Extracting keyid and key from the license_url
+            # Format: ...keyid=FE77...&key=624E...
+            lic_url = item.get("license_url", "")
+            key_id = ""
+            key_val = ""
+            if "keyid=" in lic_url and "&key=" in lic_url:
+                key_id = lic_url.split("keyid=")[1].split("&")[0]
+                key_val = lic_url.split("&key=")[1]
+
+            # --- Arrangement as per your working example ---
+            # Structure: URL?|Cookie=...&User-agent=...&Referer=...&Origin=...&drmScheme=clearkey&drmLicense=ID:KEY
+            final_url = (
+                f"{stream_url}?|Cookie={cookie}&User-agent={ua}&"
+                f"Referer={referer}&Origin={origin}&drmScheme=clearkey&"
+                f"drmLicense={key_id}:{key_val}"
+            )
+
             m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group}" tvg-logo="{logo}",{name}\n'
-            
-            # 2. KODIPROP Tags (License Type)
-            # Agar license_url hai toh Widevine, nahi toh default Clearkey (as per example)
-            lic_type = "widevine" if license_url else "clearkey"
-            m3u_content += f'#KODIPROP:inputstream.adaptive.license_type={lic_type}\n'
-            m3u_content += f'#KODIPROP:inputstream.adaptive.license_type={lic_type}\n' # Repeated as in example
-            
-            # 3. KODIPROP License Key
-            if license_url:
-                m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={license_url}\n'
-            
-            # 4. EXTVLCOPT User-Agent
-            m3u_content += f'#EXTVLCOPT:http-user-agent={ua}\n'
-            
-            # 5. EXTHTTP Cookie JSON
-            if cookie:
-                m3u_content += f'#EXTHTTP:{{"cookie":"{cookie}"}}\n'
-            
-            # 6. Stream URL with Double Pipe arrangement
-            # URL || cookie=COOKIE_VALUE
-            m3u_content += f'{stream_url}||cookie={cookie}\n\n'
+            m3u_content += f'{final_url}\n\n'
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(m3u_content)
-        print("Success! Data arranged in exact M3U format.")
+        print("Success! Working playlist generated in single-URL format.")
 
     except Exception as e:
         print(f"Error: {e}")
